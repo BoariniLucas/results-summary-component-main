@@ -1,0 +1,19 @@
+body {
+    font-family: 'Hanken Grotesk', sans-serif;
+}
+
+.grid-container {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    grid-template-columns: auto auto auto;
+    background-color: #D3D3D3;
+    width: 300px;
+    height: 400px;
+    margin: 20%;
+  }
+
+  .grid-item {
+    width: 150px;
+  }
+
