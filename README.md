@@ -26,6 +26,12 @@ Users should be able to:
 
 ## My process
 
+- [X] Criar grid com estrutura básica para colocar componentes dentro dela
+- [X] Criar estrutura dos componentes dentro da grid
+- [ ] Acertar espaçamentos
+- [ ] Acertar as cores
+- [ ] Implementar com o arquivo .json
+
 ### Built with
 
 - Semantic HTML5 markup
