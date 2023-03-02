@@ -28,9 +28,13 @@ Users should be able to:
 
 - [X] Criar grid com estrutura básica para colocar componentes dentro dela
 - [X] Criar estrutura dos componentes dentro da grid
-- [ ] Acertar espaçamentos
-- [ ] Acertar as cores
+- [X] Definir espaçamentos seção de resultados
+- [X] Acertar as cores seção resultados
+- [ ] Definir espaçamentos seção sumário
+- [ ] Acertar as cores seção sumário
+- [X] Mudar design botãoa
 - [ ] Implementar com o arquivo .json
+- [ ] Acertar layout para celuar
 
 ### Built with
 
