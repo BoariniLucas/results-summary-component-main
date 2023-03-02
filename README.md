@@ -32,7 +32,7 @@ Users should be able to:
 - [X] Acertar as cores seção resultados
 - [ ] Definir espaçamentos seção sumário
 - [ ] Acertar as cores seção sumário
-- [X] Mudar design botãoa
+- [X] Mudar design botão
 - [ ] Implementar com o arquivo .json
 - [ ] Acertar layout para celuar
 
