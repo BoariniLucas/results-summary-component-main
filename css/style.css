@@ -91,12 +91,38 @@ body {
     color: hsl(0, 100%, 67%);
   }
 
+  .reaction strong img {
+    vertical-align: middle;
+  }
+
+  .reaction p {
+    display: block;
+    float: right;
+  }
+
+  .reaction p a {
+    opacity: 0.5;
+  }
+
   .memory {
     background: hsl(39, 100%, 98%);
   }
 
   .memory strong {
     color: hsl(39, 100%, 56%);
+  }
+
+  .memory strong img {
+    vertical-align: middle;
+  }
+
+  .memory p {
+    display: block;
+    float: right;
+  }
+
+  .memory p a {
+    opacity: 0.5;
   }
 
   .verbal {
@@ -107,12 +133,39 @@ body {
     color: hsl(166, 100%, 37%);
   }
 
+  .verbal strong img {
+    vertical-align: middle;
+  }
+
+  .verbal p {
+    display: block;
+    float: right;
+  }
+
+  .verbal p a {
+    opacity: 0.5;
+  }
+
   .visual {
     background: hsl(234, 85%, 98%);
   }
 
   .visual strong {
+    display: inline-block;
     color: hsl(234, 85%, 45%);
+  }
+
+  .visual strong img {
+    vertical-align: middle;
+  }
+
+  .visual p {
+    display: block;
+    float: right;
+  }
+
+  .visual p a {
+    opacity: 0.5;
   }
 
   .button {

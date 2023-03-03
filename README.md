@@ -30,8 +30,8 @@ Users should be able to:
 - [X] Criar estrutura dos componentes dentro da grid
 - [X] Definir espaçamentos seção de resultados
 - [X] Acertar as cores seção resultados
-- [ ] Definir espaçamentos seção sumário
-- [ ] Acertar as cores seção sumário
+- [X] Definir espaçamentos seção sumário
+- [X] Acertar as cores seção sumário
 - [X] Mudar design botão
 - [ ] Implementar com o arquivo .json
 - [ ] Acertar layout para celuar
