@@ -33,8 +33,9 @@ Users should be able to:
 - [X] Definir espaçamentos seção sumário
 - [X] Acertar as cores seção sumário
 - [X] Mudar design botão
+- [X] Acertar layout para celuar
 - [ ] Implementar com o arquivo .json
-- [ ] Acertar layout para celuar
+
 
 ### Built with
 
