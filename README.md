@@ -18,6 +18,9 @@ Users should be able to:
 
 - View the optimal layout for the interface depending on their device's screen size
 - See hover and focus states for all interactive elements on the page
+## Plus
+
+- Import info from data.json
 
 ### Links
 
@@ -26,16 +29,18 @@ Users should be able to:
 
 ## My process
 
-- [X] Criar grid com estrutura básica para colocar componentes dentro dela
-- [X] Criar estrutura dos componentes dentro da grid
-- [X] Definir espaçamentos seção de resultados
-- [X] Acertar as cores seção resultados
-- [X] Definir espaçamentos seção sumário
-- [X] Acertar as cores seção sumário
-- [X] Mudar design botão
-- [X] Acertar layout para celuar
-- [ ] Implementar com o arquivo .json
+- [X] Create grid with basic structure to place components inside it
+- [X] Create component structure within the grid
+- [X] Set results place spacing
+- [X] Color match results place
+- [X] Set summary place spacing
+- [X] Color match summary place
+- [X] Change button design
+- [X] Fix layout for mobile
 
+# Plus do projeto (Importar dados do aquivo .json)
+
+- [ ] Read and display data from .json file
 
 ### Built with
 
@@ -45,8 +50,7 @@ Users should be able to:
 
 ### Useful resources
 
-- [Example resource 1](https://www.example.com) - This helped me for XYZ reason. I really liked this pattern and will use it going forward.
-- [Example resource 2](https://www.example.com) - This is an amazing article which helped me finally understand XYZ. I'd recommend it to anyone still learning this concept.
+- [Example resource 1](https://www.w3schools.com/) - This helped me for design using HTML and CSS. I really liked this pattern and will use it going forward.
 
 ## Author
 
